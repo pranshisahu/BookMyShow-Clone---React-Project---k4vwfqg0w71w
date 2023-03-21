@@ -1,0 +1,15 @@
+
+.thank{
+    margin-top: 250px;
+    color: red;
+}
+#bt-home{
+    border: none;
+    font-size: large;
+    background-color: #fff;
+}
+#bt-home:hover{
+    background-color: black;
+    color: azure;
+
+}

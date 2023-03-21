@@ -1,0 +1,62 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    margin: 0 0rem;
+    border-bottom: 1px solid;
+
+}  
+.img-icon{ 
+    height: 4rem;
+}
+.icons{
+    height: 1rem;
+    width: 0rem;
+    justify-content: space-between;
+}
+.user{
+    width: 20px;
+}
+#input-hed{
+    font: 20px;
+    padding: 10px;
+    margin-right: 5px;
+    color: white;
+    box-shadow: 2px 2px 2px 2px;
+    background-color: rgb(247, 166, 166);
+    /* border: none; */
+
+} 
+#btn{
+    padding: 10px;
+    margin-right: 70px;
+    color: blue;
+    border-radius: 10px;
+    border: none;
+}
+#btn:hover{
+    background-color: red;
+    color: white;
+}
+
+.fa-heart{
+    margin-right: 70px;
+    font-size: 30px;
+}
+.fa-user{
+    margin-right: 70px;
+    font-size: 30px;
+    
+}
+.rightpart{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    /* background-color: red; */
+} 
+/* .input1{
+   
+} */
+
